@@ -100,6 +100,7 @@ seaborn==0.13.2
 Send2Trash==2.1.0
 six==1.17.0
 soupsieve==2.9
+sqlmodel==0.0.24
 stack-data==0.6.3
 terminado==0.18.1
 threadpoolctl==3.6.0
