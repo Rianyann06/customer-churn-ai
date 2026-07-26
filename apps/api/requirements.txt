@@ -129,3 +129,4 @@ websocket-client==1.9.0
 websockets==16.1.1
 widgetsnbextension==4.0.15
 xgboost==3.2.0
+sqlmodel==0.0.24
