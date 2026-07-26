@@ -71,7 +71,7 @@ export default function PredictionResult({
 
   const recommendations = getRecommendations(churn);
 
-  const insights = generateInsight(formData, churn);
+  const insights = generateInsight(formData);
 
   const handleDownloadPdf = () => {
     exportPredictionPdf({

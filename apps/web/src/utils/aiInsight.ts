@@ -1,6 +1,5 @@
 export function generateInsight(
-  formData: any,
-  churn: number
+  formData: any
 ): string[] {
   const insights: string[] = [];
 
